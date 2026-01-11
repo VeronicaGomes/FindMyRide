@@ -1,1 +1,2 @@
-FindMyRide – fare comparison prototype using OpenRouteService
+# FindMyRide
+Fare comparison prototype using OpenRouteService and Gradio
